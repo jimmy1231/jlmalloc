@@ -20,23 +20,6 @@
 #include "mm.h"
 #include "memlib.h"
 
-/*********************************************************
- * NOTE TO STUDENTS: Before you do anything else, please
- * provide your team information in the following struct.
- ********************************************************/
-team_t team = {
-    /* Team name */
-    "ME BIG BRAIN",
-    /* First member's full name */
-    "Jing Yi Li",
-    /* First member's email address */
-    "dfjimmy.li@mail.utoronto.ca",
-    /* Second member's full name (do not modify this as this is an individual lab) */
-    "",
-    /* Second member's email address (do not modify this as this is an individual lab)*/
-    ""
-};
-
 /*************************************************************************
  * Basic Constants and Macros
  * You are not required to use these macros but may find them helpful.
